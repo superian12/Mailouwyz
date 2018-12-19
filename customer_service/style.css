@@ -1,0 +1,51 @@
+
+.login {
+
+    font-family: arial;
+    border-radius: 25px;
+    margin:auto;
+    margin:50px 30%;
+
+    border:1px solid #ccc;
+
+    background-color: #f2f2f2;
+    padding-top:40px;
+    padding-bottom: 50px;
+}
+.login {
+    text-align: center;
+}
+.form-group
+{
+    padding: 5px;
+    margin:auto;
+    width: 80%;
+
+    text-align: center
+
+
+}
+.form-group input
+{
+    float:center;
+    padding: 10px;
+    size: 35px;
+    font-size: 10px
+
+
+    text-decoration: all;
+}
+.form-group label
+{
+    display: block;
+    float:center;
+    padding: 5px;
+}
+
+.form-group button
+{
+    padding:5px 80px;
+    margin-top: 10px;
+    border-radius: 30px;
+ 
+}
